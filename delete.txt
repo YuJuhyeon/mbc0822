@@ -1,0 +1,5 @@
+1. 삭제 버튼을 누름
+2. controlloe 파일에 delete 라우터 동작
+3. service 파일에 delete 메서드 생성
+4. repository 파일에 delete 메서드 생성
+5. bdms에 삭제와 관련된 sql분을 전달
